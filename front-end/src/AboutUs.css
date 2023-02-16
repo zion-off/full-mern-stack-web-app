@@ -1,0 +1,9 @@
+.flex-box {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+
+img {
+    width: 50vw;
+}
